@@ -1,16 +1,3 @@
-### Hi there 👋
-
-<!--
-**EhsanAlizai/EhsanAlizai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-to get you started:
-
- on ...
-ently learning ...
-..
- for help with ...
-
-
 Hi 👋 My name is Ehsanulhaq Alizai
 ==================================
 
